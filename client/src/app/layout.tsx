@@ -6,7 +6,7 @@ import DashboardWrapper from "@/app/dashboardWrapper"
 const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
-  title: "GE Stock",
+  title: "GE-Stock",
   description: "Inventory Management",
 };
 
